@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "macbookpro",
+    "password": null,
+    "database": "todos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "macbookpro",
+    "password": null,
+    "database": "todos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "todo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
